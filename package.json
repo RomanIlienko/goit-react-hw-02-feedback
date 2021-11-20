@@ -1,12 +1,11 @@
 {
-  "name": "goit-react-hw-02-feedback",
+  "name": "goit-react-hw-04-feedback",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "gh-pages": "^3.2.3",
     "modern-normalize": "^1.1.0",
     "node-sass": "^6.0.1",
     "prop-types": "^15.7.2",
@@ -27,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RomanIlienko/goit-react-hw-02-feedback.git"
+    "url": "git+https://github.com/RomanIlienko/goit-react-hw-04-feedback.git"
   },
   "author": "Roman Ilienko <lemontim1@gmail.com>",
   "bugs": {
-    "url": "https://github.com/RomanIlienko/goit-react-hw-02-feedback/issues"
+    "url": "https://github.com/RomanIlienko/goit-react-hw-04-feedback/issues"
   },
-  "homepage": "https://RomanIlienko.github.io/goit-react-hw-02-feedback",
+  "homepage": "https://RomanIlienko.github.io/goit-react-hw-04-feedback",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -54,6 +53,7 @@
   },
   "devDependencies": {
     "eslint": "^7.11.0",
+    "gh-pages": "^3.2.3",
     "husky": "^7.0.4",
     "lint-staged": "^11.2.6",
     "prettier": "^2.4.1"
